@@ -1,5 +1,9 @@
 public class decrypt {
-  
+  /*
+* @author Isaac Hutchinson
+*@version 1
+*
+*/
 	public String decode(String message)
 	{
 		
